@@ -7,4 +7,4 @@
     <a href="https://discord.gg/8hr9CRqmfc"> <img src="https://badgen.net/discord/members/8hr9CRqmfc" alt="iTz Club Discord"/> </a>
 </div>
 
-This project was renamed and now you can see it in [HERE](https://github.com/iTzArshia/Discord-Music-Bot)
+The name of the project was changed and you can now see it [HERE](https://github.com/iTzArshia/Discord-Music-Bot)
